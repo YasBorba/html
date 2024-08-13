@@ -9,3 +9,8 @@ Arquivos desenvolvidos durante as aulas de HTML📂
 * Página de web de filme;
 * Semântica;
 * Site letras com clone.
+* Tabelas
+* Lista ordenada
+* Lista nao ordenada
+* Desafio de img e link
+* Desafio das listas 
